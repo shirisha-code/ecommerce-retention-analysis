@@ -58,7 +58,7 @@ This will regenerate the charts in `figures/` and update `metrics.json`.
 ## LLM Assistance
 Analysis materials were prepared with assistance from an LLM (Jules / ChatGPT Codex guidance).
 
----
+----
 
 ## Repo Structure
 ```
